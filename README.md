@@ -1,1 +1,1 @@
-# Striver
+# just strivers optimal solution
